@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Nunito+Sans");
 :root {
-  --blue: #fff;
+  --blue: #0E0620;
   --white: #fff;
   --green: #2ccf6d;
 }
@@ -64,7 +64,7 @@ h2 {
 .hamburger-menu button span {
   position: absolute;
   height: 3px;
-  background: #000;
+  background: #fff;
   width: 100%;
   left: 0px;
   top: 0px;
